@@ -54,7 +54,7 @@
 
 以下是几个可靠的科学上网工具推荐：
 
-- <[[https://www.taozijichang.xyz/#/register?code=nBCHS0pq](https://day-16.go2world.icu/login#/register?code=YPBIWRQL)](https://day-16.go2world.icu/login#/register?code=YPBIWRQL)>：性价比最高，很稳定，非常推荐。可以配合 SSR、Clash、Shadowrocket、V2Ray 等客户端使用。
+- [https://day-16.go2world.icu/login#/register?code=YPBIWRQL](https://day-16.go2world.icu/login#/register?code=YPBIWRQL)：性价比最高，很稳定，非常推荐。可以配合 SSR、Clash、Shadowrocket、V2Ray 等客户端使用。
 
 
 请注意，以上工具仅供学习使用。若利用这些工具从事违法犯罪行为，我们概不承担任何法律责任。
